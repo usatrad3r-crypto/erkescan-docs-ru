@@ -25,10 +25,9 @@
 - Что делать при истечении подписки?
 
 ### [Возможности](features.md)
-Детальные вопросы о функциональности: AutoTrade vs Custom Alerts, лимиты, доступные метрики, Signal Scanner, и другое.
+Детальные вопросы о функциональности: Custom Alerts, лимиты, доступные метрики, Signal Scanner, и другое.
 
 **Топ вопросов:**
-- Разница между AutoTrade и Custom Alerts?
 - Сколько алертов я могу создать?
 - Какие метрики доступны?
 - Как работает Signal Scanner?
@@ -48,27 +47,15 @@
 
 ### Как начать?
 1. Пройдите регистрацию на [app.erkescan.com](https://app.erkescan.com)
-2. Выберите тарифный план (Free или платный)
+2. Выберите тарифный план
 3. Откройте скринер и посмотрите данные в реальном времени
-4. Создайте первый Custom Alert или подпишитесь на AutoTrade Signals
+4. Создайте первый Custom Alert
 
 ### Когда я получу доступ после оплаты?
-Обычно в течение 1-5 минут. Если дольше, напишите в Support.
-
-### Как отключить подписку?
-Перейдите в Profile → Subscription → Cancel Subscription. Доступ останется до конца текущего периода.
+Обычно в течение 5–10 минут после подтверждения крипто-платежа.
 
 ### Где получить помощь?
-- **FAQ** — читайте документацию
-- **Telegram бот** — команда `/help`
-- **Email Support** — support@erkescan.com
-- **Discord VIP чат** — для подписчиков Premium
+- **Telegram:** [@erkescan\_support](https://t.me/erkescan_support)
+- **Telegram бот:** [@erkescan\_bot](https://t.me/erkescan_bot) → кнопка Support
 
-## Связанные ресурсы
-
-- [Полная документация](/docs)
-- [Блог ErkeScan](/blog)
-- [Telegram бот](https://t.me/erkescan_bot)
-- [Twitter](https://twitter.com/erkescan)
-
-Не нашли ответ? [Напишите нам в Support](mailto:support@erkescan.com)
+Не нашли ответ? Напишите нам в [@erkescan\_support](https://t.me/erkescan_support).

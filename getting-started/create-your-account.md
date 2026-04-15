@@ -79,7 +79,7 @@
 1. Проверьте папку Spam
 2. Подождите 5-10 минут
 3. Попробуйте нажать **Resend email** на странице входа
-4. Если проблема остаётся, напишите на [info@erkescan.com](mailto:info@erkescan.com)
+4. Если проблема остаётся, напишите в [@erkescan\_support](https://t.me/erkescan_support)
 
 ### Я забыл пароль
 

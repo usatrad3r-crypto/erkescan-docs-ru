@@ -94,8 +94,6 @@ ErkeScan работает на разных уровнях:
 
 Нам нравится слышать от пользователей. Вы можете:
 1. **Telegram:** Напишите в `/support` команде в @erkescan_bot
-2. **Email:** support@erkescan.com
-3. **Discord:** VIP чат для подписчиков Premium
-4. **Twitter:** @erkescan
+2. **Telegram:** [@erkescan\_support](https://t.me/erkescan_support)
 
 Большинство функций ErkeScan был добавлены на основе пользовательских запросов. Ваше мнение помогает развивать платформу.
