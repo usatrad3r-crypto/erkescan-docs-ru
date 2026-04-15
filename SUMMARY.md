@@ -13,15 +13,13 @@
 ## Возможности
 
 * [Скринер в реальном времени](features/screener.md)
-* [Сканер сигналов](features/signal-scanner.md)
 * [Пользовательские алерты](features/custom-alerts.md)
 * [Графики и аналитика](features/charts-and-analytics.md)
-* [Трекинг китов](features/whale-tracking.md)
 * [Spaghetti Charts](features/spaghetti-charts.md)
 
 ## Интеграции
 
-* [Telegram бот](integrations/telegram-bot.md)
+* [Telegram боты](integrations/telegram-bot.md)
 * [Discord](integrations/discord.md)
 
 ## Ресурсы

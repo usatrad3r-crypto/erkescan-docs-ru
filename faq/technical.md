@@ -14,7 +14,7 @@ ErkeScan работает на любом устройстве с совреме
 
 ## Уведомления в Telegram не приходят
 
-Убедитесь, что: (1) Отправили `/start` боту [@erkescan\_bot](https://t.me/erkescan_bot). (2) Подписка активна. (3) Создан хотя бы один алерт в веб-приложении. (4) Не заблокировали или не отключили бота в Telegram. (5) Уведомления Telegram включены на устройстве.
+Убедитесь, что: (1) Отправили `/start` боту [@erkescanalert\_bot](https://t.me/erkescanalert_bot). (2) Подписка активна. (3) Создан хотя бы один алерт в веб-приложении. (4) Не заблокировали или не отключили бота в Telegram. (5) Уведомления Telegram включены на устройстве.
 
 ## Discord подключён, но доступ не активируется
 
@@ -26,9 +26,9 @@ ErkeScan работает на любом устройстве с совреме
 
 ## Нашли ошибку или есть пожелание?
 
-Напишите нам в [@erkescan\_support](https://t.me/erkescan_support) или через кнопку Support в [@erkescan\_bot](https://t.me/erkescan_bot). Мы активно развиваем платформу и ценим обратную связь.
+Напишите нам в [@erkescan\_support](https://t.me/erkescan_support) или через кнопку Support в [@erkescan\_premium\_bot](https://t.me/erkescan_premium_bot). Мы активно развиваем платформу и ценим обратную связь.
 
 ## Где получить помощь?
 
 - **Telegram:** [@erkescan\_support](https://t.me/erkescan_support)
-- **Telegram бот:** [@erkescan\_bot](https://t.me/erkescan_bot) → кнопка Support
+- **Telegram бот:** [@erkescan\_premium\_bot](https://t.me/erkescan_premium_bot) → кнопка Support

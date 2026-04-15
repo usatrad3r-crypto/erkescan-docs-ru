@@ -56,6 +56,6 @@
 
 ### Где получить помощь?
 - **Telegram:** [@erkescan\_support](https://t.me/erkescan_support)
-- **Telegram бот:** [@erkescan\_bot](https://t.me/erkescan_bot) → кнопка Support
+- **Telegram бот:** [@erkescan\_premium\_bot](https://t.me/erkescan_premium_bot) → кнопка Support
 
 Не нашли ответ? Напишите нам в [@erkescan\_support](https://t.me/erkescan_support).
